@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#yellow-color {
+    
+    padding: 100px;
+    text-align: center;
+
+    width: 30%;
+    position: absolute;
+    top: 110px;
+    right: 25%;
+
+    
+}
+.yellow-back{
+    background-color: yellow;
+}
+
+div#blue-color {
+    
+    padding: 100px;
+    text-align: center;
+    color: white;
+
+    width: 30%;
+    position: absolute;
+    top: 200px;
+    right: 25%;
+    margin-top: 10%;
+
+
+}
+
+.blue-back{
+    background-color: blue;
+}
+div.Buttons{
+    position: absolute;
+    top: 500px;
+    right: 39%;
+    margin-top: 10%;
+    margin-left: 20px;
+}
